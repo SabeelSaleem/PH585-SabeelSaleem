@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4bee6f4ecbb42b95",
+        "id": "1603c7691811d1c1",
         "type": "tabs",
         "children": [
           {
-            "id": "5a34e530f11277b8",
+            "id": "869348373b56b2d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Week 6/Port Sniffing Decibel Protocols Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Port Sniffing Decibel Protocols Notes"
+            }
+          },
+          {
+            "id": "a072a5885d17355e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 8 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 8 Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 0/Preliminary Thoughts.md",
+                "file": "Week 4/Week 4 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Preliminary Thoughts"
+              "title": "Backlinks for Week 4 Notes"
             }
           },
           {
@@ -157,8 +176,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,15 +195,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a34e530f11277b8",
+  "active": "a072a5885d17355e",
   "lastOpenFiles": [
+    "Week 6/Port Sniffing Decibel Protocols Notes.md",
+    "Week 8 Notes.md",
+    "Week 7/Laser Physics Notes.md",
+    "Week 7/UV Laser Notes.md",
+    "Week 4/Week 4 Notes.md",
+    "Week 7/desktop.ini",
+    "Week 7",
+    "Week 6/desktop.ini",
+    "Week 6",
+    "Week 5/desktop.ini",
+    "Week 5",
+    "Week 3/Example HV Transformer Circuit.png",
+    "Week 4/desktop.ini",
+    "Week 4",
+    "Week 3/Notes From Week 3 Class.md",
+    "Week 3/desktop.ini",
+    "Week 2/AI Programming.md",
+    "Week 3",
+    "Week 1/Pico vs Femto Second Lasers.md",
+    "Week 1/National Instruments License.md",
+    "Week 2/Learning to Solder.md",
+    "Images/PXL_20260408_234756785~2.jpg",
+    "Images/PXL_20260408_234748162~2.jpg",
+    "Week 2/Laser Holder (Design).md",
+    "Images/Pasted image 20260410185931.png",
+    "Week 2/HeNe Laser Overview.md",
+    "Laser Info.md",
+    "Images/Pasted image 20260408133912.png",
+    "Week 1/Test Sync Note.md",
     "Introductions.md",
     "Untitled.canvas",
-    "Untitled 1.base",
-    "Untitled.base",
     "Week 0/Preliminary Thoughts.md",
-    "Week 0",
-    "Week 1",
     "Welcome.md"
   ]
 }

@@ -1,0 +1,63 @@
+[11:42:41.373] Starting baud auto-detection on COM7 ...
+[11:42:41.396] === Baud Auto-Detection on COM7 ===
+[11:42:41.397] [..] Trying 9600 baud ...
+[11:42:43.471]      FOUND at 9600 baud!
+[11:42:43.471]      Raw:           CUBECTRL:READY:9600
+[11:42:43.471]      Embedded baud: 9600
+[11:42:43.594] ==> Baud detected: 9600. Click Connect.
+[11:42:48.088] Not connected -- click Connect first.
+[11:42:50.209] Connected to COM7 at 9600 baud (8N1).
+[11:42:50.210] PC ->BOX  Ready/Hand   | CUBECTRL:CONNECT
+[11:42:50.251] BOX->PC   Ready/Hand   | CUBECTRL:CONNECT
+[11:42:50.251] BOX->PC   Hand ACK     | ACK_CONN:OK
+[11:42:50.300] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:42:52.266] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:42:54.278] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:42:55.520] PC ->BOX  H-Rotation   | SET_HRYZ:282
+[11:42:55.562] BOX->PC   H-Rotation   | SET_HRYZ:282
+[11:42:55.562] BOX->PC   Echo H-Rot   | DRW_HRYZ:282
+[11:42:56.281] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:42:58.298] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:00.286] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:00.588] PC ->BOX  H-Rotation   | SET_HRYZ:000
+[11:43:00.637] BOX->PC   H-Rotation   | SET_HRYZ:000
+[11:43:00.637] BOX->PC   Echo H-Rot   | DRW_HRYZ:000
+[11:43:01.695] PC ->BOX  V-Rotation   | SET_VRYZ:197
+[11:43:01.740] BOX->PC   V-Rotation   | SET_VRYZ:197
+[11:43:02.301] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:04.269] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:06.250] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:07.877] PC ->BOX  V-Rotation   | SET_VRYZ:000
+[11:43:07.907] BOX->PC   V-Rotation   | SET_VRYZ:000
+[11:43:08.294] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:08.785] PC ->BOX  Color Hue    | SET_HUE:218
+[11:43:08.828] BOX->PC   Color Hue    | SET_HUE:218
+[11:43:10.272] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:12.280] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:14.141] PC ->BOX  Color Hue    | SET_HUE:000
+[11:43:14.184] BOX->PC   Color Hue    | SET_HUE:000
+[11:43:14.277] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:16.265] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:18.283] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:18.447] PC ->BOX  H-Rotation   | SET_HRYZ:165
+[11:43:18.502] BOX->PC   H-Rotation   | SET_HRYZ:165
+[11:43:18.503] BOX->PC   Echo H-Rot   | DRW_HRYZ:165
+[11:43:20.260] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:21.951] PC ->BOX  H-Rotation   | SET_HRYZ:000
+[11:43:21.983] BOX->PC   H-Rotation   | SET_HRYZ:000
+[11:43:22.024] BOX->PC   Echo H-Rot   | DRW_HRYZ:000
+[11:43:22.279] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:24.276] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:26.286] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:27.158] PC ->BOX  Color Hue    | SET_HUE:218
+[11:43:27.192] BOX->PC   Color Hue    | SET_HUE:218
+[11:43:28.267] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:30.280] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:32.269] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:33.692] PC ->BOX  Color Hue    | SET_HUE:217
+[11:43:33.723] BOX->PC   Color Hue    | SET_HUE:217
+[11:43:34.282] BOX->PC   Ready/Hand   | CUBECTRL:READY:9600
+[11:43:34.332] PC ->BOX  Color Hue    | SET_HUE:000
+[11:43:34.379] BOX->PC   Color Hue    | SET_HUE:000
+[11:43:35.767] Disconnected.
+

@@ -1,0 +1,23 @@
+﻿# Windows system files
+desktop.ini
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm IDE
+.idea/workspace.xml
+.idea/caches/
+.idea/shelf/
+
+# Temporary / cloud sync
+.tmp.driveupload/
+
+# Binary firmware
+*.bin
+
+# Obsidian workspace state
+PH585 Obsidian Notes/.obsidian/workspace.json
