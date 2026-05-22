@@ -21,3 +21,5 @@ __pycache__/
 
 # Obsidian workspace state
 PH585 Obsidian Notes/.obsidian/workspace.json
+
+LCDMaskGenerator/GeneratedPatterns/
